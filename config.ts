@@ -1,5 +1,5 @@
 const siteMetadata = {
-    title: `Elemental`,
+    title: `ASHLEY TURNER`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
@@ -8,10 +8,10 @@ const siteMetadata = {
     ogImage: `/images/wall.png`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `WEB DESIGNER | ASPIRING PRODUCT MANAGER`,
+    description: `Full-Stack Software Engineer PRODUCING new ideas that comes from merging the CREATIVE and the LOGICAL to effectively problem-solve.`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
+        "Hello there, I'm Ashley Turner, and I love creating innovative solutions that can help make people’s lives easier and more efficient. I first put that passion into practice within the medical field, but after a couple of years, I felt that I could instill further change within the IT world. I dedicated myself to learning software engineering and enrolled in General Assembly's six-month immersive class.With my new found skills, I am able to grow my career from web designer to an aspiring product manager, and help produce ideas that will improve people’s experiences. When I'm not brushing up on my coding skills, you can find me surfing waves whenever Mother Nature allows me to do so.",
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -46,7 +46,7 @@ const siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental",
+            url: "https://github.com/ashleyy808",
         },
     ],
     social: [
@@ -74,10 +74,10 @@ const siteMetadata = {
     contact: {
         // leave empty ('') or false to hide form
         api_url: "https://getform.io/f/f227a36e-096a-4c6a-9963-9f1918a85bb3",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
-        phone: "000-000-0000",
-        address: "1234 \nLocation \nLocation",
+        description: `You can contact me at:`,
+        mail: "ashley.turner.ny@gmail.com",
+        phone: "808-557-8680",
+        address: "New York, \nNew York",
     },
     disqus: "elemental-netlify-com",
 }
