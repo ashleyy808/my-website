@@ -68,7 +68,7 @@ const siteMetadata = {
         phone: "808-557-8680",
         address: "New York, \nNew York",
     },
-    disqus: "elemental-netlify-com",
+    disqus: "",
 }
 
 const beforeContactFormSubmit = data => {
